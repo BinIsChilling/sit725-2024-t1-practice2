@@ -1,0 +1,24 @@
+{
+  "name": "sit725-2024-t1-practice2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BinIsChilling/sit725-2024-t1-practice2.git"
+  },
+  "author": "Anson Au",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BinIsChilling/sit725-2024-t1-practice2/issues"
+  },
+  "homepage": "https://github.com/BinIsChilling/sit725-2024-t1-practice2#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "save": "^2.9.0"
+  }
+}
